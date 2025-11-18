@@ -114,8 +114,9 @@ Try these steps to test the application:
 #### Using IntelliJ IDEA:
 
 - Open IntelliJ IDEA
-- Click File → New → Project
+- Click File - New - Project
 - Select Java project, click Next
 - Name your project, click Finish
 - Copy all .java files into the src folder
-- Right-click on RecipeManagementGUI.java → Run 'RecipeManagementGUI.main()'
+- Right-click on RecipeManagementGUI.java - Run 'RecipeManagementGUI.main()'
+
