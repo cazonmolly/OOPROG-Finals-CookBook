@@ -7,8 +7,8 @@
 ## Grading Breakdown
 
 ### 1. Class Diagram Completeness (25%)
-**Score:** 3/5
-**Notes:** Class diagram is referenced via Figma link (https://www.figma.com/board/eo0EduzGqcxnnxhwnSgDXB/Recipe-Cook-Book-Program). While having a diagram is positive, external links can become inaccessible. A local image or PDF would be more reliable. Cannot fully verify diagram completeness without viewing the Figma board.
+**Score:** 4/5
+**Notes:** Good UML diagram provided via Figma, now available as uml.png. The diagram shows proper inheritance hierarchy with abstract Recipe class extended by MainDish, Dessert, and SideDish. All classes display attributes (name, ingredients, cookingTimeMinutes, etc.) and methods (cook(), calculateTotalCalories()). The Cookable interface is shown but relationships could be more explicitly marked with interface implementation arrows. Minor deduction for not showing all relationship details with proper UML notation (e.g., multiplicities on associations).
 
 ### 2. Java Program - OOP Concepts (50%)
 **Score:** 5/5
@@ -27,6 +27,6 @@
 
 ---
 
-## Final Grade: 92/100
+## Final Grade: 97/100
 
 *Assessment generated based on project analysis.*
