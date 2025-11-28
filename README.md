@@ -1,4 +1,7 @@
 # Recipe Cookbook Management System
+Castillo, Zeus Noah 
+Comendador, Ralph Ian
+
 A Java-based GUI application for managing Filipino recipes, demonstrating the four fundamental Object-Oriented Programming (OOP) concepts.
 Designed to serve as a digital repository for cooking instructions. Its primary purpose is to leverage OOP to create a structured, scalable, and maintainable system for managing recipes. This structure allows for easy addition of new recipe types, clear separation of concerns, and consistent handling of common recipe attributes and actions. Instead of a flat list, the program utilizes a hierarchy to categorize recipes, ensuring that specific dish types (such as a cake versus a steak) have appropriate, specialized properties and behaviors while sharing core recipe characteristics.
 ## Project Overview
@@ -119,3 +122,4 @@ Try these steps to test the application:
 - Name your project, click Finish
 - Copy all .java files into the src folder
 - Right-click on RecipeManagementGUI.java → Run 'RecipeManagementGUI.main()'
+
